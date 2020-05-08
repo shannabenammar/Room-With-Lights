@@ -1,0 +1,14 @@
+body  {
+    color:#fff;
+    text-align:center;
+    background-image: url('https://media.giphy.com/media/XDAPCNRcvnv8y9I83V/giphy.gif');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 12px;
+    font-family: 'Dancing Script', cursive;
+    -webkit-animation: backgroundScroll 15s linear 1;
+    -webkit-animation-fill-mode: forwards;
+    animation: backgroundScroll 15s linear 1;
+    animation-fill-mode: forwards;
+}
